@@ -1,6 +1,6 @@
-# Animated Heat Distortion Effects with WebGL
+# Animated Water Distortion Effects with WebGL
 
-A tutorial on how to use fragment shaders in WebGL to create an animated heat haze distortion effect on images and text.
+A tutorial on how to use fragment shaders in WebGL to create an animated water haze distortion effect on images.
 
 ## Installing
 
